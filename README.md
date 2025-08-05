@@ -1,4 +1,4 @@
-# Softcomputing-23
+# Softcomputing [Jun-Dec 2025]
 All the programming exercises of the current course will be updated in this repo!!
 
 Ex1 [VS]: Introduction to the Numpy Basics
